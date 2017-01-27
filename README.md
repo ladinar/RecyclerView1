@@ -2,6 +2,7 @@
 
 ###Screenshoot Gambar
 ![rv1-1.png](https://s24.postimg.org/5ypw2utwl/rv1_1.png)
+![Screenshot_2016_11_4_18_44_28.png](https://s21.postimg.org/9vsrbqr47/Screenshot_2016_11_4_18_44_28.png)
 
 
 ##Identitas Diri
