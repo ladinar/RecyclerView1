@@ -1,7 +1,8 @@
 # RecyclerView1
 
 ###Screenshoot Gambar
-![Screenshot_2016_11_4_18_44_28.png](https://s21.postimg.org/9vsrbqr47/Screenshot_2016_11_4_18_44_28.png)
+![rv1-1.png](https://s24.postimg.org/5ypw2utwl/rv1_1.png)
+
 
 ##Identitas Diri
 ####Nama    : LADINAR NANDA APRILIA
